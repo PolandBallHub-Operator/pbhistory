@@ -17,7 +17,7 @@
   },
   "links": {
     "app_url": "https://polandballhub-operator.github.io/pbhistory/",
-    "manifest_url": "raw.githubusercontent.com/PolandBallHub-Operator/pbenglish/refs/heads/main/pwa-store/manifest.json"
+    "manifest_url": "raw.githubusercontent.com/PolandBallHub-Operator/pbhistory/refs/heads/main/pwa-store/manifest.json"
   },
   "metadata": {
     "category": "Education",
@@ -27,8 +27,8 @@
   "assets": {
     "icon": "https://raw.githubusercontent.com/PolandBallHub-Operator/pbhistory/refs/heads/main/images/icon-512.png",
     "screenshots": [
-      "https://raw.githubusercontent.com/PolandBallHub-Operator/pbenglish/refs/heads/main/pwa-store/screen/screen-home.png",
-      "https://raw.githubusercontent.com/PolandBallHub-Operator/pbenglish/refs/heads/main/pwa-store/screen/screen-tangen.png"
+      "https://raw.githubusercontent.com/PolandBallHub-Operator/pbhistory/refs/heads/main/pwa-store/screen/screen-mobile.png",
+      "https://raw.githubusercontent.com/PolandBallHub-Operator/pbhistory/refs/heads/main/pwa-store/screen/screen-tab.png"
     ]
   }
 }
